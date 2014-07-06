@@ -1,0 +1,31 @@
+/* Nemesis CSS */
+
+/* Sidebar Themes: Custom */
+
+/* Navy */
+
+.theme-base-navy .sidebar,
+.theme-base-navy .sidebar-toggle:active,
+.theme-base-navy #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #0A001C;
+}
+
+.theme-base-navy .container a,
+.theme-base-navy .sidebar-toggle,
+.theme-base-navy .related-posts li a:hover {
+  color: #0A001C;
+}
+
+/* Nemesis Red */
+
+.theme-base-red .sidebar,
+.theme-base-red .sidebar-toggle:active,
+.theme-base-red #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #8C0000;
+}
+
+.theme-base-red .container a,
+.theme-base-red .sidebar-toggle,
+.theme-base-red .related-posts li a:hover {
+  color: #8C0000;
+}

@@ -1,0 +1,38 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        /:title/
+
+# Setup
+title:            Nemesis
+tagline:          'Principles Of Physical Programming'
+description:      'Documentation for Squat Nemesis, and Nemesis-style programming for Weightlifting Academy.'
+url:              "http://0.0.0.0:4000"
+baseurl:          "/"
+paginate:         5
+
+author:
+  name:           'Nick Horton'
+  url:            https://theironsamurai.com
+
+
+# Sidebar Links
+
+links:
+  - title: About
+    url: /about/
+  - title: Articles
+    url: /articles/
+  - title: Tags
+    url: /tags/
+  - title: The Iron Samurai
+    url: http://theironsamurai.com
+    external: true
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/squatnemesis
